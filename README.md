@@ -1,68 +1,65 @@
-# 👋 ¡Hola! Soy Adrian Muñoz 
+<h1 align="center">¡Hola! Soy Adrian Muñoz 👋 | Hello! I'm Adrian Muñoz 👋</h1>
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador con experiencia en el desarrollo de aplicaciones multiplataforma y un interés profundo en la tecnología y la innovación. Aquí encontrarás proyectos que van desde aplicaciones web hasta herramientas de análisis de datos, cada uno con un enfoque en la calidad y la eficiencia.
-
----
-
-## 📚 Acerca de mí
-
-- 💻 Estudiante de **Desarrollo de Aplicaciones Multiplataforma** en segundo año.
-- 🌱 Actualmente, estoy mejorando mis habilidades en **Next.js, Node.js y Flutter**.
-- 🎯 Apasionado por crear soluciones que faciliten la vida cotidiana, especialmente en **aplicaciones de reconocimiento visual** y **análisis de datos**.
-- 🎨 Entusiasta de la UI/UX, siempre buscando un equilibrio entre funcionalidad y estética.
-- 🚀 Explorador de nuevas tecnologías y técnicas de desarrollo, con una mentalidad de aprendizaje continuo.
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=freelinerd&show_icons=true&theme=dark" alt="Estadísticas de GitHub de Freeline" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=freelinerd&theme=dark" alt="Freeline GitHub Streaks" />
 </p>
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 🌟 Sobre Mí | About Me
+### Español
+- 👨‍💻 **Desarrollador apasionado**: Amante del desarrollo de software, siempre en búsqueda de nuevos retos y soluciones creativas.
+- 🌱 **Aprendizaje constante**: Mejorando mis habilidades en [Tecnologías/Plataformas] y explorando proyectos de [Área de Interés].
+- 🔍 **Intereses**: Me interesa especialmente el desarrollo de aplicaciones en Next.js, análisis de datos, inteligencia artificial y tecnologías sostenibles.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=freelinerd&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freelinerd&layout=compact&theme=radical" width="48%"/>
-</div>
-
----
-
-## 🚀 Proyectos Destacados
-
-### [Listo!](https://github.com/freelinerd/Listo)
-Aplicación para la organización y gestión de tareas diarias de manera intuitiva y minimalista.
-
-### [Currency](https://github.com/freelinerd/currency)
-Herramienta de conversión de divisas en tiempo real, con funcionalidad de simulación de compra y venta de divisas.
-
-### [GreenTale](https://github.com/freelinerd/greentale)
-Aplicación de identificación y análisis de plantas que ayuda a los usuarios a comprender mejor el cuidado de sus plantas.
+### English
+- 👨‍💻 **Passionate Developer**: Enthusiastic about software development, always looking for new challenges and creative solutions.
+- 🌱 **Continuous Learner**: Constantly improving my skills in [Technologies/Platforms] and exploring projects in [Field of Interest].
+- 🔍 **Interests**: I'm particularly interested in Next.js applications, data analysis, artificial intelligence, and sustainable tech.
 
 ---
 
-## 🌐 Conecta conmigo
+## 🚀 Proyectos Destacados | Featured Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/adrianmuñoz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:contacto@freeline.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+| 🌐 Project Name | 📖 Description |
+|-----------------|----------------|
+| **Currency Exchange App** | Una aplicación de conversión de divisas para facilitar el intercambio de moneda. |
+| **Greentale** | Identificador de plantas basado en inteligencia artificial para análisis de salud de plantas. |
+| **Listo!** | Una aplicación de gestión de tareas simple y eficiente. |
+
+---
+
+## 📊 Estadísticas | GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freelinerd&layout=compact&theme=dark" alt="Top Languages"/>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freelinerd&theme=dark" alt="Profile Summary Card" />
 </p>
 
 ---
 
-## 📝 Blog y Recursos
+## 🛠️ Tecnologías | Technologies
+### Español
+- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, Next.js
+- **Backend**: Node.js, Express, MongoDB
+- **Herramientas**: Git, Visual Studio Code, Replit
 
-- 🖊️ Blog personal sobre **tecnología y desarrollo** (en construcción)
-- 📄 Artículos y tutoriales en **GitHub Gists**
+### English
+- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, Next.js
+- **Backend**: Node.js, Express, MongoDB
+- **Tools**: Git, Visual Studio Code, Replit
 
 ---
 
-Gracias por visitar mi perfil, y ¡no dudes en explorar mis proyectos! 🌟
+## 🤝 Conéctate conmigo | Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/freelinerd/](https://www.linkedin.com/in/adrian-mu%C3%B1oz-442870262/))
+[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian.i.m.b16@gmail.com)
+
+---
+
+<p align="center">
+  © 2024 Freeline. All rights reserved.
+</p>
